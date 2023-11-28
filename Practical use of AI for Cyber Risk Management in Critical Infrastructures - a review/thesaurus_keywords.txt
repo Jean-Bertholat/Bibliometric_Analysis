@@ -7,6 +7,8 @@ cyber-attack,cyber attack
 cyberattacks,cyber attack
 cyberattack,cyber attack
 cyber-physical systems,cyber-physical system
+cybe-physical systems,cyber-physical system
+cybe-physical system,cyber-physical system
 cyber physical systems,cyber-physical system
 cyber-physical system,cyber-physical system
 cyberphysical system,cyber-physical system
@@ -40,6 +42,7 @@ cyber-security threats,cyber threat
 cyber-defense,cyber defense
 cyberdefense,cyber defense
 intrusion detection systems,intrusion detection system
+intrusion-detection,intrusion detection
 intrusion detection systems (ids),intrusion detection system
 intrusion detection system (ids),intrusion detection system
 industrial control systems,industrial control system
