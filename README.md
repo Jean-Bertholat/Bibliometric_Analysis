@@ -16,7 +16,7 @@ Use the map and net files in each categories inside the visualisation tool
 - [VosViewer Online](https://app.vosviewer.com/)
 
 ## Figures
-Some figures that illustrate some ideas presented in the document but that was not important enough to be included in the document
+Some figures that illustrates some ideas presented in the document but that was not important enough to be included in the document
 
 # Contributions
 
