@@ -1,0 +1,462 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 2,
+				"label": "architecture",
+				"x": 0.7959,
+				"y": -0.1462,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2001.0000
+				}
+			},
+			{
+				"id": 3,
+				"label": "assessment techniques",
+				"x": -0.5852,
+				"y": 0.4065,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 5,
+				"label": "control system security",
+				"x": -0.6148,
+				"y": -0.5620,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 6,
+				"label": "critical infrastructure",
+				"x": 0.5369,
+				"y": 0.6028,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 8,
+				"label": "cyber security",
+				"x": -0.0190,
+				"y": 0.0050,
+				"cluster": 1,
+				"weights": {
+					"Links": 20.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2002.7143
+				}
+			},
+			{
+				"id": 9,
+				"label": "cyber security forensics",
+				"x": -0.6851,
+				"y": -0.0113,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 12,
+				"label": "digital evidence",
+				"x": -0.8329,
+				"y": 0.1535,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 13,
+				"label": "distributed system",
+				"x": 0.8074,
+				"y": -0.3793,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2001.0000
+				}
+			},
+			{
+				"id": 15,
+				"label": "electric power security",
+				"x": -0.4315,
+				"y": 0.5633,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 16,
+				"label": "electronic intrusions",
+				"x": -0.3478,
+				"y": -0.7530,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 17,
+				"label": "homeland security",
+				"x": -0.1824,
+				"y": 0.8160,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 21,
+				"label": "information security economics",
+				"x": 0.1463,
+				"y": 0.8096,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 22,
+				"label": "information sharing",
+				"x": -0.0154,
+				"y": 0.6710,
+				"cluster": 5,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 25,
+				"label": "infrastructure protection",
+				"x": 0.5680,
+				"y": -0.3047,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2001.0000
+				}
+			},
+			{
+				"id": 29,
+				"label": "monitoring and management",
+				"x": 0.6257,
+				"y": -0.5531,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2001.0000
+				}
+			},
+			{
+				"id": 30,
+				"label": "network vulnerability",
+				"x": 0.2230,
+				"y": -0.6402,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 33,
+				"label": "risk assessment",
+				"x": 0.5081,
+				"y": 0.3849,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 34,
+				"label": "risk management",
+				"x": 0.7225,
+				"y": 0.3371,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 37,
+				"label": "standard operation procedure",
+				"x": -0.8225,
+				"y": -0.1741,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 38,
+				"label": "standards",
+				"x": -0.4027,
+				"y": -0.5386,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			},
+			{
+				"id": 39,
+				"label": "stochastic modeling",
+				"x": 0.0055,
+				"y": -0.6872,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2003.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 2,
+				"target_id": 8
+			},
+			{
+				"source_id": 2,
+				"target_id": 13
+			},
+			{
+				"source_id": 2,
+				"target_id": 25
+			},
+			{
+				"source_id": 2,
+				"target_id": 29
+			},
+			{
+				"source_id": 3,
+				"target_id": 8
+			},
+			{
+				"source_id": 3,
+				"target_id": 15
+			},
+			{
+				"source_id": 5,
+				"target_id": 8
+			},
+			{
+				"source_id": 5,
+				"target_id": 16
+			},
+			{
+				"source_id": 5,
+				"target_id": 38
+			},
+			{
+				"source_id": 6,
+				"target_id": 8
+			},
+			{
+				"source_id": 6,
+				"target_id": 33
+			},
+			{
+				"source_id": 6,
+				"target_id": 34
+			},
+			{
+				"source_id": 8,
+				"target_id": 9
+			},
+			{
+				"source_id": 8,
+				"target_id": 12
+			},
+			{
+				"source_id": 8,
+				"target_id": 13
+			},
+			{
+				"source_id": 8,
+				"target_id": 15
+			},
+			{
+				"source_id": 8,
+				"target_id": 16
+			},
+			{
+				"source_id": 8,
+				"target_id": 17
+			},
+			{
+				"source_id": 8,
+				"target_id": 21
+			},
+			{
+				"source_id": 8,
+				"target_id": 22
+			},
+			{
+				"source_id": 8,
+				"target_id": 25
+			},
+			{
+				"source_id": 8,
+				"target_id": 29
+			},
+			{
+				"source_id": 8,
+				"target_id": 30
+			},
+			{
+				"source_id": 8,
+				"target_id": 33
+			},
+			{
+				"source_id": 8,
+				"target_id": 34
+			},
+			{
+				"source_id": 8,
+				"target_id": 37
+			},
+			{
+				"source_id": 8,
+				"target_id": 38
+			},
+			{
+				"source_id": 8,
+				"target_id": 39
+			},
+			{
+				"source_id": 9,
+				"target_id": 12
+			},
+			{
+				"source_id": 9,
+				"target_id": 37
+			},
+			{
+				"source_id": 12,
+				"target_id": 37
+			},
+			{
+				"source_id": 13,
+				"target_id": 25
+			},
+			{
+				"source_id": 13,
+				"target_id": 29
+			},
+			{
+				"source_id": 16,
+				"target_id": 38
+			},
+			{
+				"source_id": 17,
+				"target_id": 21
+			},
+			{
+				"source_id": 17,
+				"target_id": 22
+			},
+			{
+				"source_id": 21,
+				"target_id": 22
+			},
+			{
+				"source_id": 25,
+				"target_id": 29
+			},
+			{
+				"source_id": 30,
+				"target_id": 39
+			},
+			{
+				"source_id": 33,
+				"target_id": 34
+			}
+		]
+	}
+}

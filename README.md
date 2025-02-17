@@ -8,7 +8,7 @@ Store results of bibliometric analysis
 Look at the pictures in each categories
 
 ### Interact with the results
-Use the map and net files in each categories inside the visualisation tool
+Use the map and net files in each categories inside the visualisation tool (Vosviewer)
 
 ### Visualisation
 
@@ -24,3 +24,7 @@ Some figures that illustrates some ideas presented in the document but that was 
 
 Chapter submitted for the INTELLIGENT CYBERSECURITY AND RESILIENCE FOR CRITICAL INDUSTRIES: CHALLENGES AND APPLICATIONS
 by River Publishers Series in Security and Digital Forensics (Scopus & WoS)
+
+## Decoding CyberSecurity: How Terminology Shapes the Field
+
+Conference article submitted for ESREL-SRA 2025

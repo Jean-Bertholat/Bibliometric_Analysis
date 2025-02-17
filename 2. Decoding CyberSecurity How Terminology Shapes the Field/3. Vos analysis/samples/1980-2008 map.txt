@@ -1,0 +1,71 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+18	assessment	-0.9404	0.0576	2	6	12	2	2005.5
+23	automation	-0.3235	0.6272	3	12	28	5	2006.4
+52	communication protocols	-0.9152	-0.238	2	7	34	5	2008
+55	communications	-0.1452	0.4637	3	9	23	4	2005.75
+62	computer network management	1.4243	-0.1668	4	6	42	8	2006.625
+63	computer network security	1.3098	-0.0302	4	6	40	8	2006.875
+64	computer networks	1.4199	0.111	4	6	39	7	2006.5714
+68	computer security	0.0537	0.1268	1	4	4	7	2005.1429
+76	control	0.1131	0.3971	3	9	23	5	2006.2
+77	control system	-0.2922	-0.4344	5	6	11	3	2007.3333
+78	control system security	-0.0794	-0.2494	1	4	5	4	2005.25
+79	control systems	-0.2162	0.0626	1	15	20	6	2006.1667
+87	critical information infrastructure protection	-0.079	-0.3385	2	4	6	3	2007
+88	critical infrastructure	-0.2025	-0.5348	1	5	8	3	2005.3333
+108	cyber security	-0.4907	-0.1856	2	38	97	59	2006.2712
+117	cyber-security	-0.4075	0.2868	1	9	12	12	2006.1667
+121	cybersecurity	0.3875	-0.1041	1	20	35	23	2005.9565
+125	cyberwar	0.7509	-0.3353	1	4	8	2	2004
+129	data management	-0.4544	0.8412	3	6	7	2	2008
+131	data security	-0.4093	0.8674	3	6	7	7	2006.2857
+134	dcs	-0.6864	0.2022	2	11	19	4	2006.25
+149	digital communication	-0.913	-0.4019	2	7	34	5	2008
+162	distributed control systems	-0.9477	-0.0036	2	6	12	2	2005.5
+167	dmz	-0.2392	-0.3733	5	6	10	2	2007
+188	electric systems	-0.9897	-0.3198	2	7	34	5	2008
+202	enterprise integration	0.0476	0.7927	3	7	21	3	2006
+210	exercise	0.7412	-0.219	1	4	11	3	2005
+221	firewall	0.0854	-0.1841	5	7	11	3	2006.3333
+230	gas systems	-0.7526	-0.4789	2	7	34	5	2008
+260	ids	-0.2397	-0.2052	5	9	9	2	2004.5
+262	iec 61850	-0.0502	0.6921	3	11	25	5	2006.4
+263	impact assessment	-0.5095	-0.5859	2	2	4	2	2008
+264	industrial control system	-0.3084	-0.5258	1	4	6	3	2007.6667
+271	information assurance	0.2275	-0.1083	1	3	3	5	2005
+272	information fusion	-0.5581	-0.5816	2	2	4	2	2008
+275	information security	-0.1017	0.1344	1	16	21	10	2006.3
+302	intrusion detection	-0.3872	0.1647	1	6	7	4	2004.25
+313	it security	-0.0568	-0.0697	1	9	11	2	2007.5
+319	laboratory	0.7182	-0.2889	1	4	11	4	2005.5
+337	market failures	-0.3546	-0.5383	2	2	4	2	2007.5
+349	mitigation	-0.2332	-0.4316	5	6	10	2	2007
+362	national cyber security division	-0.5422	0.1859	3	3	3	2	2005.5
+365	nerc	-0.4491	0.3834	3	8	10	3	2007
+412	policy	-0.0051	0.0016	1	4	5	3	2005.3333
+419	power system communication	1.3141	0.1618	4	6	42	8	2006.625
+422	power system control	0.197	0.0495	1	8	9	2	2007
+423	power system maintenance	1.9282	-0.1014	4	3	6	2	2007
+424	power system planning	1.9369	-0.0238	4	3	6	2	2007
+425	power system security	1.5202	-0.0198	4	9	45	11	2007
+426	power systems	0.1731	-0.0223	1	8	8	2	2007.5
+427	power transmission	1.9293	0.0539	4	3	6	2	2007
+446	protection	-0.2554	0.5498	3	14	30	5	2006.8
+449	protocols	1.3049	-0.2106	4	6	40	8	2006.75
+464	relay	-0.0347	0.8424	3	7	21	3	2006
+472	risk analysis	-0.4699	0.1652	1	6	8	4	2006.25
+473	risk assessment	-0.0502	-0.1626	1	13	16	4	2006.5
+474	risk management	-0.0107	-0.3798	1	6	10	5	2005.8
+479	scada	-0.6193	-0.0579	2	29	70	17	2007.2353
+490	security	0.9345	-0.0167	4	14	55	24	2005.9167
+497	security framework	-0.0262	-0.2489	1	12	13	3	2007
+533	standards	-0.1569	0.0374	1	7	9	5	2006.8
+539	substation	-0.1705	0.8224	3	10	26	4	2006.5
+540	substation automation	-0.0555	0.2038	1	14	16	5	2006.6
+545	supervisory control and data acquisition	-0.8599	0.1647	2	6	12	2	2005.5
+551	system operations	-0.8506	-0.4826	2	7	34	5	2008
+560	testing	-0.9041	0.1095	2	6	12	2	2005.5
+567	tools	0.698	-0.0963	1	2	4	3	2005.3333
+591	vulnerability	-0.2731	0.4172	1	3	4	3	2005.6667
+592	vulnerability assessment	-0.1984	-0.035	1	10	10	4	2005.25
+599	water systems	-0.9998	-0.1854	2	7	28	4	2008

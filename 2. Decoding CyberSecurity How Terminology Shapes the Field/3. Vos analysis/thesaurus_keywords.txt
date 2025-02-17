@@ -1,0 +1,83 @@
+label,replace by
+cyber-attacks,cyber attack
+cyber-attack,cyber attack
+cyberattacks,cyber attack
+cyberattack,cyber attack
+cyber-physical systems,cyber-physical system
+cybe-physical systems,cyber-physical system
+cybe-physical system,cyber-physical system
+cyber physical systems,cyber-physical system
+cyber-physical system,cyber-physical system
+cyberphysical system,cyber-physical system
+cyberphysical systems, cyber-physical system
+cyber-physical systems (cps),cyber-physical system
+cyber physical systems (cps),cyber-physical system
+cyber physical system (cps),cyber-physical system
+cyber physical systems,cyber-physical system
+cyber-physical systems (cpss),cyber-physical system
+cyber physical systems (cpss),cyber-physical system
+cyber physical system (cpss),cyber-physical system
+cyber-physical system (cps),cyber-physical system
+cps,cyber-physical system
+cyber physical system,cyber-physical system
+cyber physical systems,cyber-physical system
+cyber physical attacks,cyber-physical attack
+cyber physical attack,cyber-physical attack
+cpss,cyber-physical attack
+ontologies,ontology
+vulnerabilities,vulnerability
+attacks,attack
+threats,threat
+cyber-threats,cyber threat
+cyber threats,cyber threat
+cyberthreats,cyber threat
+cyberthreat,cyber threat
+cybersecurity threat,cyber threat
+cyber-security threat,cyber threat
+cybersecurity threats,cyber threat
+cyber-security threats,cyber threat
+cyber-defense,cyber defense
+cyberdefense,cyber defense
+intrusion detection systems,intrusion detection system
+intrusion-detection,intrusion detection
+intrusion detection systems (ids),intrusion detection system
+intrusion detection system (ids),intrusion detection system
+industrial control systems,industrial control system
+industrial control systems (ics),industrial control system
+industrial control system (ics),industrial control system
+industrial control systems (icss),industrial control system
+industrial control system (icss),industrial control system
+industrial control,industrial control system
+ics,industrial control system
+industrial internet of things,iiot
+industrial internet of things (iiot),iiot
+industrial iot (iiot),iiot
+critical infrastructures,critical infrastructure
+artificial intelligence (ai),artificial intelligence
+ai,artificial intelligence
+machine learning (ml),machine learning
+machine-learning (ml),machine learning
+machine-learning,machine learning
+deepl learning (dl),deepl learning
+honeypots,honeypot
+dos,denial of service
+dos attacks,denial of service
+dos attack,denial of service
+denial of service attacks,denial of service
+denial of service attack,denial of service
+denial of service (dos),denial of service
+denial of service attacks (dos),denial of service
+denial of service attack (dos),denial of service
+ddos,denial of service
+ddos attack,denial of service
+ddos attacks,denial of service
+distributed denial of service (ddos),denial of service
+botnets,botnet
+hackers,hacker
+attack graphs,attack graph
+internet-of-things,iot
+internet of things,iot
+internet-of-things (iot),iot
+internet of things (iot),iot
+cyber risks,cyber risk
+industry 4,industry 4.0

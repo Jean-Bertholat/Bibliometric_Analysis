@@ -1,0 +1,22 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Occurrences>	score<Avg. pub. year>
+2	architecture	0.7959	-0.1462	2	4	1	2001
+3	assessment techniques	-0.5852	0.4065	1	2	1	2003
+5	control system security	-0.6148	-0.562	3	3	1	2003
+6	critical infrastructure	0.5369	0.6028	6	3	1	2003
+8	cyber security	-0.019	0.005	1	20	7	2002.7143
+9	cyber security forensics	-0.6851	-0.0113	4	3	1	2003
+12	digital evidence	-0.8329	0.1535	4	3	1	2003
+13	distributed system	0.8074	-0.3793	2	4	1	2001
+15	electric power security	-0.4315	0.5633	1	2	1	2003
+16	electronic intrusions	-0.3478	-0.753	3	3	1	2003
+17	homeland security	-0.1824	0.816	5	3	1	2003
+21	information security economics	0.1463	0.8096	5	3	1	2003
+22	information sharing	-0.0154	0.671	5	3	1	2003
+25	infrastructure protection	0.568	-0.3047	2	4	1	2001
+29	monitoring and management	0.6257	-0.5531	2	4	1	2001
+30	network vulnerability	0.223	-0.6402	1	2	1	2003
+33	risk assessment	0.5081	0.3849	6	3	1	2003
+34	risk management	0.7225	0.3371	6	3	1	2003
+37	standard operation procedure	-0.8225	-0.1741	4	3	1	2003
+38	standards	-0.4027	-0.5386	3	3	1	2003
+39	stochastic modeling	0.0055	-0.6872	1	2	1	2003
