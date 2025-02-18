@@ -2,11 +2,13 @@
 name = "bibliometric-analysis"
 version = "0.1.0"
 description = ""
+package-mode = false
 authors = ["Jean Bertholat <jean.bertholat@alten.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
+pybliometrics = "^4.1"
 
 
 [build-system]
